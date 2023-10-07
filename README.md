@@ -1,4 +1,5 @@
-### Hi there 👋
+# Seja bem vindo(a)!
+Meu nome é Yuri Souza. Sou desenvolvedor de software back-end desde o inicio de 2023, atualmente no processo de estudo focado em programação web. Seja bem vindo(a) ao meu GitHub, trago conhecimentos e experiências das tecnologias: Node.js, Git, Typescript e SQL. 
 
 <!--
 **yurissz/yurissz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
