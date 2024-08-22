@@ -1,5 +1,5 @@
 # Seja bem vindo(a)!
-Meu nome é Yuri Souza. Sou estudante autônomo em desenvolvimento de software desde o inicio de 2023. No meu GitHub, trago conhecimentos e experiências das tecnologias: Node.js, Git, Typescript e SQL. 
+Meu nome é Yuri Souza. Sou estudante autônomo em desenvolvimento de software desde o inicio de 2023. No meu GitHub, trago conhecimentos e experiências das tecnologias: Node.js, React, HTML, CSS. Next.js, Git, Typescript e SQL. 
 
 <!--
 **yurissz/yurissz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
